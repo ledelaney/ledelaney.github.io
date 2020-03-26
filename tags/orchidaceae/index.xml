@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orchidaceae | L. E. Delaney</title>
+    <link>https://ledelaney.github.io/tags/orchidaceae/</link>
+      <atom:link href="https://ledelaney.github.io/tags/orchidaceae/index.xml" rel="self" type="application/rss+xml" />
+    <description>Orchidaceae</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 26 Mar 2020 13:38:35 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Orchidaceae</title>
+      <link>https://ledelaney.github.io/tags/orchidaceae/</link>
+    </image>
+    
+    <item>
+      <title>Breeding Systems in the Orchids</title>
+      <link>https://ledelaney.github.io/project/bsorchids/</link>
+      <pubDate>Thu, 26 Mar 2020 13:38:35 -0500</pubDate>
+      <guid>https://ledelaney.github.io/project/bsorchids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
