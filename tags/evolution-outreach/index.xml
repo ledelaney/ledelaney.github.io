@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evolution Outreach | L. E. Delaney</title>
+    <link>https://ledelaney.github.io/tags/evolution-outreach/</link>
+      <atom:link href="https://ledelaney.github.io/tags/evolution-outreach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Evolution Outreach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 26 Mar 2020 14:00:42 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Evolution Outreach</title>
+      <link>https://ledelaney.github.io/tags/evolution-outreach/</link>
+    </image>
+    
+    <item>
+      <title>The Logic of Adaptation: How Do Students Reason about Natural Selection?</title>
+      <link>https://ledelaney.github.io/project/logicadaptation/</link>
+      <pubDate>Thu, 26 Mar 2020 14:00:42 -0500</pubDate>
+      <guid>https://ledelaney.github.io/project/logicadaptation/</guid>
+      <description>&lt;p&gt;Evolutionary biology is widely regarded as the framework that organizes the entire discipline of biological sciences. To wit, there is no &lt;em&gt;why&lt;/em&gt; in biology without underlying evolutionary processes. Despite this, evolution is often taught separately from other biological disciplines and sometimes not at all. Not only does this impede the construction of a conceptual framework in biological sciences generally, but the concepts required to fully understand evolutionary theory are also necessary for basic science literacy.&lt;/p&gt;
+&lt;p&gt;While genes are ultimately critical for understanding inheritance, they are clearly less critical understanding the process of natural selection. In fact, a strictly genetic approach to teaching natural selection will likely be insufficient for student understanding as this approach is almost completely devoid of ecology. Without the appropriate ecological context, the patterns produced by the process natural selection are difficult to interpret &amp;ndash; why are organisms (and their associated adaptations) distributed as they are, and not some other way? Why are there so many organisms on Earth, and why are they all so different?&lt;/p&gt;
+&lt;p&gt;Understanding natural selection is essential to understanding biological diversity, species distribution, and trait distribution, but it is also essential for other disciplines vital to human survival like medicine and agriculture. Moreover, it can aid in building the kind of conceptual framework lacking for most undergraduate students in biology: instead of simply memorizing the differences between prokaryotic and eukaryotic cells, understanding their evolutionary relationship creates a foundation on which these facts can be constructed meaningfully.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
