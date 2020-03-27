@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ledelaney.github.io/</loc>
+    <lastmod>2020-03-27T11:53:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ledelaney.github.io/publication/my-paper-name/</loc>
+    <lastmod>2020-03-27T11:53:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ledelaney.github.io/publication/</loc>
+    <lastmod>2020-03-27T11:53:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ledelaney.github.io/tags/ber/</loc>
     <lastmod>2020-03-26T14:00:42-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://ledelaney.github.io/tags/evolution-outreach/</loc>
-    <lastmod>2020-03-26T14:00:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ledelaney.github.io/</loc>
     <lastmod>2020-03-26T14:00:42-05:00</lastmod>
   </url>
   
@@ -75,10 +85,6 @@
   
   <url>
     <loc>https://ledelaney.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ledelaney.github.io/publication/</loc>
   </url>
   
   <url>
