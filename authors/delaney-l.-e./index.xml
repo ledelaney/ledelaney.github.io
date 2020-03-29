@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delaney, L. E. | L. E. Delaney</title>
+    <link>https://ledelaney.github.io/authors/delaney-l.-e./</link>
+      <atom:link href="https://ledelaney.github.io/authors/delaney-l.-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Delaney, L. E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 27 Jul 2018 11:53:05 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Delaney, L. E.</title>
+      <link>https://ledelaney.github.io/authors/delaney-l.-e./</link>
+    </image>
+    
+    <item>
+      <title>Breeding System Distribution in the Legumes</title>
+      <link>https://ledelaney.github.io/publication/fabaceae-poster/</link>
+      <pubDate>Fri, 27 Jul 2018 11:53:05 -0500</pubDate>
+      <guid>https://ledelaney.github.io/publication/fabaceae-poster/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://ledelaney.github.io/img/poster.png&#34; alt=&#34;Download poster.&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
