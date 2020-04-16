@@ -5,7 +5,7 @@
     <link>https://ledelaney.github.io/</link>
       <atom:link href="https://ledelaney.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>L. E. Delaney</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 26 Mar 2020 14:00:42 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>L. E. Delaney</title>
@@ -50,6 +50,17 @@
       <pubDate>Fri, 27 Jul 2018 11:53:05 -0500</pubDate>
       <guid>https://ledelaney.github.io/publication/fabaceae-poster/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://ledelaney.github.io/img/poster.png&#34; alt=&#34;Download poster.&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIOS 220 Discussion Materials</title>
+      <link>https://ledelaney.github.io/bios220/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ledelaney.github.io/bios220/</guid>
+      <description>&lt;p&gt;Here is some stuff.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://johnmacfarlane.net/work.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here is a link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
