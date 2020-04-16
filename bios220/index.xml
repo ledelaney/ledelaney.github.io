@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BIOS 220 Discussion Materials | L. E. Delaney</title>
+    <link>https://ledelaney.github.io/bios220/</link>
+      <atom:link href="https://ledelaney.github.io/bios220/index.xml" rel="self" type="application/rss+xml" />
+    <description>BIOS 220 Discussion Materials</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>BIOS 220 Discussion Materials</title>
+      <link>https://ledelaney.github.io/bios220/</link>
+    </image>
+    
+    <item>
+      <title>BIOS 220 Answer Keys</title>
+      <link>https://ledelaney.github.io/bios220/answer-keys/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ledelaney.github.io/bios220/answer-keys/</guid>
+      <description>&lt;h4 id=&#34;friday-april-10-2020&#34;&gt;Friday, April 10, 2020&lt;/h4&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Bb Problem Set&lt;/a&gt;
+
+&lt;a href=&#34;&#34;&gt;Quiz&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIOS 220 Cheatsheets</title>
+      <link>https://ledelaney.github.io/bios220/cheatsheets/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ledelaney.github.io/bios220/cheatsheets/</guid>
+      <description>&lt;p&gt;[Zoom tutorial.]&lt;/p&gt;
+&lt;p&gt;[Navigating Blackboard.]&lt;/p&gt;
+&lt;p&gt;[Discussion session format.]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIOS 220 Discussion Notes</title>
+      <link>https://ledelaney.github.io/bios220/discussion-notes/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://ledelaney.github.io/bios220/discussion-notes/</guid>
+      <description>&lt;p&gt;Friday, April 10, 2020&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;&#34;&gt;Chapter 8: Transcription&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
