@@ -5,7 +5,7 @@
     <link>https://ledelaney.github.io/</link>
       <atom:link href="https://ledelaney.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>L. E. Delaney</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 26 Mar 2020 14:00:42 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>L. E. Delaney</title>
@@ -55,19 +55,6 @@
     
     <item>
       <title>BIOS 220 Answer Keys</title>
-      <link>https://ledelaney.github.io/answer-keys/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://ledelaney.github.io/answer-keys/</guid>
-      <description>&lt;h4 id=&#34;friday-april-10-2020&#34;&gt;Friday, April 10, 2020&lt;/h4&gt;
-&lt;p&gt;
-&lt;a href=&#34;&#34;&gt;Bb Problem Set&lt;/a&gt;
-
-&lt;a href=&#34;&#34;&gt;Quiz&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BIOS 220 Answer Keys</title>
       <link>https://ledelaney.github.io/bios220/answer-keys/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://ledelaney.github.io/bios220/answer-keys/</guid>
@@ -87,7 +74,7 @@
       <description>&lt;p&gt;
 &lt;a href=&#34;https://uic.blackboard.com/bbcswebdav/users/ldelan5/ZoomSetup.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zoom tutorial.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;&#34;&gt;Navigating Blackboard.&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://uic.blackboard.com/bbcswebdav/users/ldelan5/Cheatsheets/BbTips.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Navigating Blackboard.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;&#34;&gt;Discussion session format.&lt;/a&gt;&lt;/p&gt;
 </description>
