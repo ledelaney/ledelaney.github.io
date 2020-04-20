@@ -219,6 +219,15 @@ window.buildTabsets = function(tocID) {
 };
 
 </script>
+<script>$(document).ready(function(){
+    if (typeof $('[data-toggle="tooltip"]').tooltip === 'function') {
+        $('[data-toggle="tooltip"]').tooltip();
+    }
+    if ($('[data-toggle="popover"]').popover === 'function') {
+        $('[data-toggle="popover"]').popover();
+    }
+});
+</script>
 
 
 
@@ -429,9 +438,8 @@ summary {
 <h3>Uncovering student logic</h3>
 <p>All of these lines of research suggest that while many factors are responsible for the lack of understanding and acceptance of evolution generally, there are a few common themes that likely have the most impact. Moreover, cognitive construals, along with inappropriate schemas and on-the-fly knowledge construction using p-prims (``causal nets&quot;), likely all interact with each other in ways that are difficult to tease apart. This stems in part from the broad nature of the theory of evolution itself. In fact, the theory of evolution actually contains five theories as <span class="citation">Mayr (1982)</span> points out, further adding to its complexity. Thus, by examining a far narrower window FF&amp;F, we may bypass many of these documented and difficult challenges and their potential interactions.</p>
 <p>Writing is a process that reinforces reflection, connection, and organization <span class="citation">(Durst and Newell 1989)</span>. Proponents of the write-to-learn (WTL) movement argue that reflective writing enhances metacognition, an important aspect of constructing knowledge in a cohesive framework. Not only is reflective writing a useful tool for student learning and self-evaluation, but reflective writing can also be a useful tool for educators to diagnose misconceptions and the reasoning behind those misconceptions. Thus, posing a series of open-ended questions may allow students the space to elaborate their thoughts more clearly, giving a greater degree of insight into the modes of reasoning they employ, in addition to the factual information behind their logic.</p>
-<p>%How does ACORNS align with and differ from what you want to do with the 6 C’s and FF&amp;F?</p>
 <p>More recently, methods of assessing student understanding that use open-ended questions have been published, like the Assessment of Contextual Reasoning about Natural Selection (ACORNS) instrument <span class="citation">(Nehm et al. 2012)</span>. ACORNS is unique for a few reasons. First, it is one of only two (out of eighteen) evolution-specific concept inventories that employ open-ended questions. Second, the computational tool EvoGrader <span class="citation">(Moharreri, Ha, and Nehm 2014)</span> was developed to automate grading of ACORNS and provide detailed feedback on student responses. This is a tremendous advantage for educators responsible for large classes, as evaluating written feedback to exams can be extremely time-consuming.</p>
-<p>The ACORNS instrument is novel in respect to its use of open-ended questions. It is also an extremely useful tool for educators responsible for assessing large classes. However, it is somewhat limited in its ability to uncover student logic, as the software contains previously established ``categories’’ of normative and non-normative ideas in which student responses are binned. It is not meant to be an exploratory tool, but one that simply assesses the extent to which student thinking conforms to the dominant conceptions in the field, and where students hold common and previously established misconceptions.</p>
+<p>The ACORNS instrument is novel in respect to its use of open-ended questions. It is also an extremely useful tool for educators responsible for assessing large classes. However, it is somewhat limited in its ability to uncover student logic, as the software contains previously established “categories” of normative and non-normative ideas in which student responses are binned. It is not meant to be an exploratory tool, but one that simply assesses the extent to which student thinking conforms to the dominant conceptions in the field, and where students hold common and previously established misconceptions.</p>
 <p>Open-ended response instruments are not without their own limitations. In addition to time spent grading, student responses may also be difficult to interpret for a variety of reasons <span class="citation">(Nehm and Schonfeld 2008)</span>. Some of the limitations relate to how seriously the students take the assessment and how much they elaborate on their responses. Short answers can be difficult to analyze in meaningful ways. Other limitations relate to the science of evolution itself, and the lack of consensus — even among evolutionary biologists — about the definitions of certain terms or the interpretation of certain facts. This means that the grading of these assessments may change depending on the individual grader. Regardless of these limitations, open-ended response assessments can still facilitate a detailed picture of student thinking that multiple-choice assessments are unable to provide.</p>
 </div>
 <div id="study-populations" class="section level3">
@@ -477,7 +485,7 @@ summary {
 </div>
 <div id="additional-data" class="section level3">
 <h3>Additional data</h3>
-<p>In a study examining predictors of success in ``gateway courses&quot; (high rates of DFW grades), <span class="citation">Benford and Gess-Newsome (2006)</span> found three significant predictors for all science and mathematics gateway courses, and one predictor specific to biology. For all science and mathematics courses, quantitative and analytical skills (measured by SAT or ACT score), academic self-esteem (determined qualitatively via survey), and GPA were found to be significant predictors. In biology specifically, prior experience with course material and robust verbal skills were shown to also be strong predictors of success. Other studies have also shown that performance in high school science predicts future achievement in college coursework <span class="citation">(Szabo 1969)</span>.</p>
+<p>In a study examining predictors of success in “gateway courses” (high rates of DFW grades), <span class="citation">Benford and Gess-Newsome (2006)</span> found three significant predictors for all science and mathematics gateway courses, and one predictor specific to biology. For all science and mathematics courses, quantitative and analytical skills (measured by SAT or ACT score), academic self-esteem (determined qualitatively via survey), and GPA were found to be significant predictors. In biology specifically, prior experience with course material and robust verbal skills were shown to also be strong predictors of success. Other studies have also shown that performance in high school science predicts future achievement in college coursework <span class="citation">(Szabo 1969)</span>.</p>
 <p>Thus, in addition to the open-ended questions, students will be asked to provide additional data on their educational background. Students in BIOS 120 may provide data on their high school and what major they have declared, if any. BIOS 331 students may provide data on biological sciences classes they have taken previously and what major they have declared.</p>
 <p>This additional data is important for two reasons. First, it will allow for binning of students into groups of majors and non-majors, study populations that should theoretically display different levels of complexity in their biological understanding. Second, it will give an indication of how much an individual student has been exposed to biological concepts and associated reasoning skills prior to enrolling in the class. As students come to UIC from schools of varying scholastic rank, gathering data on their background will likely be an important aspect of their biological understanding and learning outcomes in biological sciences.</p>
 </div>
@@ -485,13 +493,13 @@ summary {
 <h3>Coding student responses.</h3>
 <p>As the questions are as open-ended as possible, student responses will likely vary substantially. Thus, these responses will be coded in two ways. The first will address the overall complexity of their responses using Webb’s Depth of Knowledge <span class="citation">(DoK, Webb 2002)</span>. A level one response will differ from that of a level three response by extending from factual recall to synthesis and justification. Table 1 below outlines the four levels of depth and how they may be used to categorize student responses.</p>
 <p>The second way to code student responses will address the modes of reasoning that potentially lead to faulty conclusions, i.e., the nature of their flawed logic (Table 1). Outlined originally by <span class="citation">Nehm, Rector, and Ha (2010)</span>, coding students’ cognitive reasoning models was adapted for the automated grading of ACORNS responses with the program EvoGrader <span class="citation">(Moharreri, Ha, and Nehm 2014)</span>. This broad binning will be useful for the variety of responses that will likely be collected, while maintaining the possibility for further characterization by specific naïve belief (e.g., which of the six Cs underly their flawed logic).</p>
-<table>
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
 <caption>
-Webb’s Depth of Knowledge (DoK), adapted from Hess, 2009; Hess 2010
+Table 1: Webb’s Depth of Knowledge (DoK), adapted from Hess, 2009; Hess 2010
 </caption>
 <thead>
 <tr>
-<th style="text-align:left;">
+<th style="text-align:right;">
 Level
 </th>
 <th style="text-align:left;">
@@ -504,47 +512,208 @@ Description
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">
-One
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+1
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10em; ">
 Recall and Reproduction
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 20em; ">
 Recall facts, definitions, principles, or concepts; display the least complexity in response; single-step answers or answers with circular logic (e.g., repeating the question in a new way).
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Two
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+2
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10em; ">
 Skills and Concepts
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 20em; ">
 Use information and conceptual knowledge beyond simple recall; select appropriate justification for a claim; more complex reasoning (e.g., multi-step response).
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Three
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+3
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10em; ">
 Strategic Thinking
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 20em; ">
 Reason or develop a plan to approach a problem; employ decision-making and justification; solve abstract, complex, or non-routine problems; identify multiple correct answers for a problem.
 </td>
 </tr>
 <tr>
-<td style="text-align:left;">
-Four
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+4
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 10em; ">
 Extended Thinking
 </td>
-<td style="text-align:left;">
+<td style="text-align:left;width: 20em; ">
 High cognitive demand and complex reasoning to make multiple connections; students relate ideas within and/or among content areas; indicate how an answer may be determined empirically.
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<caption>
+Table 2: Adapted from Moharreri et al., 2014; cognitive reasoning models taken from Nehm et al., 2012.
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;">
+Modes of Reasoning
+</th>
+<th style="text-align:left;">
+Definition
+</th>
+<th style="text-align:left;">
+Examples
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Pure Scientific
+</td>
+<td style="text-align:left;width: 20em; ">
+Logic adheres to the dominant conceptions within the field.
+</td>
+<td style="text-align:left;width: 20em; ">
+Answers contain only normative scientific ideas and reasoning.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Pure Naïve
+</td>
+<td style="text-align:left;width: 20em; ">
+Logic does not adhere to dominant conceptions in the field but does adhere to some kind of intuitive reasoning.
+</td>
+<td style="text-align:left;width: 20em; ">
+Misunderstanding of the six Cs; essentialist, teleological or anthropocentric thinking; direct-causal schema; causal nets.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Mixed
+</td>
+<td style="text-align:left;width: 20em; ">
+A mixture of both normative scientific reasoning and naïve reasoning
+</td>
+<td style="text-align:left;width: 20em; ">
+Any mixture of naïve reasoning and scientific reasoning or ideas
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+None
+</td>
+<td style="text-align:left;width: 20em; ">
+No reasoning model employed.
+</td>
+<td style="text-align:left;width: 20em; ">
+Re-stating the question, providing extraneous information, not answering the question directly.
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<caption>
+Table 3: Examples of levels of coded student responses.
+</caption>
+<thead>
+<tr>
+<th style="text-align:right;">
+Score
+</th>
+<th style="text-align:left;">
+Models + DoK Level
+</th>
+<th style="text-align:left;">
+Examples
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+1
+</td>
+<td style="text-align:left;width: 30em; ">
+No reasoning model employed (0) + DoK level 1
+</td>
+<td style="text-align:left;width: 30em; ">
+Re-stating the question; answering a different question than the one asked; no answer.
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+2
+</td>
+<td style="text-align:left;width: 30em; ">
+Pure naïve model (1) + DoK level 1
+</td>
+<td style="text-align:left;width: 30em; ">
+Reproduction or recall of some non-normative ideas with intuitive biological reasoning.
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+3
+</td>
+<td style="text-align:left;width: 30em; ">
+Mixed reasoning model (2) + DoK level 1; pure naïve model (1)
+</td>
+<td style="text-align:left;width: 30em; ">
+Recall of facts with any mixture of naïve reasoning and scientific reasoning; intuitive biological reasoning with some justification or synthesis beyond recall.
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+4
+</td>
+<td style="text-align:left;width: 30em; ">
+Pure scientific model (3) + DoK level 1; mixed reasoning model (2) + DoK level 2
+</td>
+<td style="text-align:left;width: 30em; ">
+Recall or reproduction of scientific facts and principles; some scientific and naïve reasoning models with answers that display some kind of synthesis of information.
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+5
+</td>
+<td style="text-align:left;width: 30em; ">
+Pure scientific model (3) + DoK level 2; mixed reasoning model (2) + DoK level 3
+</td>
+<td style="text-align:left;width: 30em; ">
+Synthesis of scientific facts and principles; Some mixture of scientific and na&quot;ive reasoning with deeper evaluation, including identifying multiple correct answers.
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+6
+</td>
+<td style="text-align:left;width: 30em; ">
+Pure scientific model (3) + DoK level 3; mixed reasoning model (2) + DoK level 4
+</td>
+<td style="text-align:left;width: 30em; ">
+Synthesis, justification and interpretation of scientific facts and principles, possibly including more than one correct answer; highly complex response with multiple connections across content areas, mixed justification of claims, suggestions of empirical work to determine answers.
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-weight: bold;border-right:1px solid;">
+7
+</td>
+<td style="text-align:left;width: 30em; ">
+Pure scientific model (3) + DoK level 4
+</td>
+<td style="text-align:left;width: 30em; ">
+Highly complex response with multiple connections across content areas, appropriate justification of claims, suggestions of empirical work to determine answers.
 </td>
 </tr>
 </tbody>
@@ -555,6 +724,117 @@ High cognitive demand and complex reasoning to make multiple connections; studen
 <p>Once the pre- and post-test have been administered, data on student learning outcomes will be collected for comparative purposes. Student learning outcomes are limited to retention, exam grades, and overall course grade. These metrics will be evaluated against student performance (score) on the pre-post test, in addition to their <em>change</em> in score from the beginning to the end of the class, if any.</p>
 <p>The pre-post test scores and the change in score will be evaluated by major and non-major, high school rank or number of biology courses taken previously, exam grades, and final grades. Some students will receive a W or no grade (if they dropped the course early), so these pre-test scores will be evaluated against the individuals that remained in the course (Table 4).</p>
 <p>The goal of this comparison is not to assess the ``success’’ of the classes themselves at teaching natural selection. The classes are chosen not necessarily for content, but because of the populations of students they contain — a mix of majors and non-majors in BIOS120, and upper-division majors in BIOS331. We expect that BIOS120 students may exhibit a greater change between the pre- and post-test because this course deals with many of these concepts more specifically than does BIOS331. However, students that display a more sophisticated understanding of these concepts in their pre-post test are perhaps likely to have better learning outcomes. Longitudinal studies of this kind are rare and more data is needed to assess that hypothesis.</p>
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<caption>
+Table 4: Additional data gathered on (a) final student learning outcomes and (b) student demographics.
+</caption>
+<thead>
+<tr>
+<th style="text-align:left;">
+Possible End SLOs
+</th>
+<th style="text-align:left;">
+Category
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Grade A
+</td>
+<td style="text-align:left;width: 10em; ">
+Pass – high
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Grade B
+</td>
+<td style="text-align:left;width: 10em; ">
+Pass
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Grade C
+</td>
+<td style="text-align:left;width: 10em; ">
+Pass – low
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Grade D or F
+</td>
+<td style="text-align:left;width: 10em; ">
+Fail
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Grade W
+</td>
+<td style="text-align:left;width: 10em; ">
+Withdraw
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+No Grade
+</td>
+<td style="text-align:left;width: 10em; ">
+Withdraw – early
+</td>
+</tr>
+</tbody>
+</table>
+<table class="table" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Additional Data
+</th>
+<th style="text-align:left;">
+Category
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Biological sciences major
+</td>
+<td style="text-align:left;width: 10em; ">
+Major
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+Other major
+</td>
+<td style="text-align:left;width: 10em; ">
+Non-major
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+High school (categorical)
+</td>
+<td style="text-align:left;width: 10em; ">
+Previous exposure
+</td>
+</tr>
+<tr>
+<td style="text-align:left;font-weight: bold;border-right:1px solid;">
+College course completion (number)
+</td>
+<td style="text-align:left;width: 10em; ">
+Previous exposure
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="comparing-student-scores-between-bios-120-and-bios-331." class="section level3">
 <h3>Comparing student scores between BIOS 120 and BIOS 331.</h3>
@@ -592,7 +872,7 @@ High cognitive demand and complex reasoning to make multiple connections; studen
 <ol start="13" style="list-style-type: decimal">
 <li>Why is there wood?</li>
 <li>How would biologists explain how a species of cactus without spines evolved from a species of cactus with spines? (Nehm, 2018)</li>
-<li>If penguins are unable to fly, why do they have wings? Are these ``wings&quot; an adaptation?</li>
+<li>If penguins are unable to fly, why do they have wings? Are these “wings” an adaptation?</li>
 <li>Some species are found in highly localized areas (endemic), while others are found across the globe (cosmopolitan). For example, <em>Dubautia</em> is a genus of flowering plants found only in the Hawaiian islands, while plants in the genus <em>Ranunculus</em> are found on every continent on earth. What might explain these differences in distribution?</li>
 <li>How do predators avoid eating all of their prey?</li>
 <li>Do all organisms have a carrying capacity?</li>
