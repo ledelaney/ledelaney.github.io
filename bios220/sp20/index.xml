@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L. E. Delaney</title>
-    <link>https://ledelaney.github.io/</link>
-      <atom:link href="https://ledelaney.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>L. E. Delaney</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <title>BIOS220: Spring 2020 | L. E. Delaney</title>
+    <link>https://ledelaney.github.io/bios220/sp20/</link>
+      <atom:link href="https://ledelaney.github.io/bios220/sp20/index.xml" rel="self" type="application/rss+xml" />
+    <description>BIOS220: Spring 2020</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>L. E. Delaney</title>
-      <link>https://ledelaney.github.io/</link>
+      <title>BIOS220: Spring 2020</title>
+      <link>https://ledelaney.github.io/bios220/sp20/</link>
     </image>
     
     <item>
@@ -103,47 +103,6 @@
 &lt;a href=&#34;https://ledelaney.github.io/bios220/bios220-sp20/discussion-notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Notes]&lt;/a&gt; | 
 &lt;a href=&#34;https://ledelaney.github.io/bios220/bios220-sp20/answer-keys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Answer Keys]&lt;/a&gt;&lt;/p&gt;
 &lt;/center&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Logic of Adaptation</title>
-      <link>https://ledelaney.github.io/project/logicadaptation/</link>
-      <pubDate>Thu, 26 Mar 2020 14:00:42 -0500</pubDate>
-      <guid>https://ledelaney.github.io/project/logicadaptation/</guid>
-      <description>&lt;p&gt;Evolutionary biology is widely regarded as the framework that organizes the entire discipline of biological sciences. To wit, there is no &lt;em&gt;why&lt;/em&gt; in biology without underlying evolutionary processes. Despite this, evolution is often taught separately from other biological disciplines and sometimes not at all. Not only does this impede the construction of a conceptual framework in biological sciences generally, but the concepts required to fully understand evolutionary theory are also necessary for basic science literacy.&lt;/p&gt;
-&lt;p&gt;While genes are ultimately critical for understanding inheritance, they are clearly less critical understanding the process of natural selection. In fact, a strictly genetic approach to teaching natural selection will likely be insufficient for student understanding as this approach is almost completely devoid of ecology. Without the appropriate ecological context, the patterns produced by the process natural selection are difficult to interpret &amp;mdash; why are organisms (and their associated adaptations) distributed as they are, and not some other way? Why are there so many organisms on Earth, and why are they all so different?&lt;/p&gt;
-&lt;p&gt;Understanding natural selection is essential to understanding biological diversity, species distribution, and trait distribution, but it is also essential for other disciplines vital to human survival like medicine and agriculture. Moreover, it can aid in building the kind of conceptual framework lacking for most undergraduate students in biology: instead of simply memorizing the differences between prokaryotic and eukaryotic cells, understanding their evolutionary relationship creates a foundation on which these facts can be constructed meaningfully.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.ipn.uni-kiel.de/aktuell/stcse/stcse.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duit, R. (2006). &lt;em&gt;Students&amp;rsquo; and teachers&amp;rsquo; conceptions and science education.&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breeding Systems in the Legumes</title>
-      <link>https://ledelaney.github.io/project/bslegumes/</link>
-      <pubDate>Thu, 26 Mar 2020 13:38:01 -0500</pubDate>
-      <guid>https://ledelaney.github.io/project/bslegumes/</guid>
-      <description>&lt;p&gt;Angiosperms maintain a diverse array of strategies to ensure successful pollination. These strategies ultimately determine the distribution of genetic variation within populations and dictate the resultant patterns of evolution, as differences in breeding systems yield differing levels of outcrossing and recombination. Although nearly half of all flowering plant species are self-incompatible (SI), the mechanisms that underpin this trait differ dramatically between families. Indeed, independent gains and the persistence of many such mechanisms across vast timescales suggests a strong role of natural selection. And yet, surprisingly little is known regarding the distribution of incompatibility systems &amp;mdash; their genetic and molecular bases, and their evolutionary relationships &amp;mdash; in most angiosperm families.&lt;/p&gt;
-&lt;p&gt;This lack of data is notable in agriculturally important Fabaceae, which contains roughly seven percent of all flowering plants. A specific type of SI &amp;mdash; S-RNase-based GSI &amp;mdash; is found in many distantly-related eudicot families, including the fairly well-studied Rosaceae. Dozens of studies hypothesize that closely-related Fabaceae shares the same system, but this remains an open question. Uncovering the answer is essential for understanding factors that influence breeding system evolution and ultimately macroevolutionary patterns in angiosperms.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breeding Systems in the Orchids</title>
-      <link>https://ledelaney.github.io/project/bsorchids/</link>
-      <pubDate>Thu, 26 Mar 2020 13:15:35 -0500</pubDate>
-      <guid>https://ledelaney.github.io/project/bsorchids/</guid>
-      <description>&lt;p&gt;Stay tuned: more to come!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breeding System Distribution in the Legumes</title>
-      <link>https://ledelaney.github.io/publication/fabaceae-poster/</link>
-      <pubDate>Fri, 27 Jul 2018 11:53:05 -0500</pubDate>
-      <guid>https://ledelaney.github.io/publication/fabaceae-poster/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ledelaney.github.io/img/poster.png&#34; alt=&#34;Download poster.&#34;&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
