@@ -5,12 +5,20 @@
     <link>https://ledelaney.github.io/talk/</link>
       <atom:link href="https://ledelaney.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 17 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Talks</title>
       <link>https://ledelaney.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>The Four Causes of Adaptation</title>
+      <link>https://ledelaney.github.io/talk/saberwest/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ledelaney.github.io/talk/saberwest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evolutionary Consequences of Plant Mating Systems</title>
