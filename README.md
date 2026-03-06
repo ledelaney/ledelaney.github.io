@@ -1,3 +1,3 @@
-Re-direct from my old spot to my new spot....
+## EXAMPLE WEBSITE FOR BIOL101
 
-https://ledelaney.org
+Take a look at these files and file structure as you prepare your own websites!
