@@ -21,6 +21,12 @@ h1 {
     font-family: "Monaco";
 }
 
+footnote {
+
+  padding: 2em;
+
+}
+
 
 a {
     text-decoration: none;
